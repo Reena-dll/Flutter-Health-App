@@ -1,16 +1,37 @@
-# boykiloindeks
+# Flutter Dart Sağlık Uygulaması
 
-A new Flutter application.
+Uygulama içerisinde Beden kitle hesabı ve kalori hesabı yapılmaktadır. Uygulamanın içerisinde besin bilgileri yer almaktadır. Besin bilgileri sayfasında
+Json veriden yardım aldım. 
 
-## Getting Started
+Uygulamanın tam hali için;
 
-This project is a starting point for a Flutter application.
+### Benimle İletişime Geç
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oguzhansadikoglu/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oguzhansadikoglu/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ouz.spy#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ouz.spy#gh-dark-mode-only)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Tasarım 
+
+
+![Test Image 2](./img/Screenshot_1.jpg)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_2.jpg)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_3.jpg)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_4.jpg)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_5.jpg)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_6.jpg)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_7.jpg)
+&nbsp;&nbsp;
+
+
