@@ -1,0 +1,194 @@
+[
+  {
+    "urunFoto": "https://i.hizliresim.com/ksarm3w.jpg",
+    "urunHakkinda": "Yumurta, anne sütünden sonra içerdiği protein bakımından vücutta yüzde yüz oranla emilerek kullanılabilen tek besindir. Bu nedenle anne sütü alan bebeklerin haricinde diğer tüm bebekler için en kaliteli protein kaynağıdır. Aynı zamanda A vitamini ile kalsiyum ve demir gibi minerallerin önemli bir kaynağıdır.",
+    "urunAd": "Yumurta",
+    "urunKategori": "Süt ve Süt Ürünleri",
+    "urunID": 1,
+    "urunKalori": "155 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/dj6d1oj.jpg",
+    "urunHakkinda": "Muz, lif içeriği oldukça yüksek olan bir meyve türüdür. 100 gramlık bir porsiyonu yaklaşık olarak 77 kilokalori enerji içerir. Aynı miktarda muz 1,1 gram protein ve 0,3 gram yağa ek olarak 23 gram karbonhidrat içermektedir. 100 gramında 358 mg potasyum bulunan muz, tansiyonun düşürülmesine yardımcı olur.",
+    "urunAd": "Muz",
+    "urunKategori": "Meyve",
+    "urunID": 2,
+    "urunKalori": "77 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/prl3ya5.jpg",
+    "urunHakkinda": "Sağlık üzerindeki olumlu etkileri saymakla bitmeyen bir çözünür posa türü olan beta-glukanın en iyi kaynağı olan yulaf, bir tahıl türüdür. 100 gram yulaf; vücuda 351 kilokalorilik enerji sağlarken 57,3 gram karbonhidrat, 11,3 gram protein ve 5,8 gram yağ içerir.",
+    "urunAd": "Yulaf",
+    "urunKategori": "Tahıl",
+    "urunID": 3,
+    "urunKalori": "351 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/osct0it.png",
+    "urunHakkinda": "Değerli yağlar içeren kuru yemişlerden bir tanesi olan ceviz, omega 3 yağ asitleri içeren önemli bir bitkisel besindir. 100 gram ceviz 654 kilokalori, bir avuç (25 gram) ceviz içi ise 164 kilokalorilik enerji sağlar. ",
+    "urunAd": "Ceviz",
+    "urunKategori": "Kuruyemiş",
+    "urunID": 4,
+    "urunKalori": "654 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/tkxzhre.jpg",
+    "urunHakkinda": "Bitkisel protein ve karbonhidrat kaynağı olan kuru fasulye, en çok tüketilen kuru baklagillerden bir tanesidir. 100 gramında 155 kilokalori enerji, 5 gram yağ, 6 gram protein, 22 gram protein bulunur.",
+    "urunAd": "Kuru Fasulye",
+    "urunKategori": "Baklagiller",
+    "urunID": 5,
+    "urunKalori": "155 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/3olchgb.jpg",
+    "urunHakkinda": "İyi bir bitkisel protein kaynağı olan nohut, lif içeriği yüksek ve sindirim sistemini düzenleyici bir besin türüdür. 100 gramında 360 kkal enerji, 61 gram karbonhidrat, 19 gram protein ve 6 gram yağ bulunur.",
+    "urunAd": "Nohut",
+    "urunKategori": "Baklagiller",
+    "urunID": 6,
+    "urunKalori": "360 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/fwp2prn.jpg",
+    "urunHakkinda": "Nişasta içeriği çok yüksek olan patates, bir karbonhidrat kaynağıdır. 100 gram patateste 77 kkcal enerji, 17 gram karbonhidrat, 2 gram protein ve 0,1 gram gibi eser bir miktarda yağ yer alır.",
+    "urunAd": "Patates",
+    "urunKategori": "Sebze",
+    "urunID": 7,
+    "urunKalori": "77 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/n90i1ao.jpg",
+    "urunHakkinda": "Önemli bir protein kaynağı olan tavuk göğsü, günlük yaşamda ve diyetlerde sıklıkla tercih edilen besinlerden bir tanesidir. 100 gram derisi alınmış tavuk göğsünde 120 kkal enerji, 22,5 gram protein ve 2,6 gram yağ bulunur.",
+    "urunAd": "Tavuk Göğsü",
+    "urunKategori": "Et",
+    "urunID": 8,
+    "urunKalori": "120 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/ceboqvv.jpg",
+    "urunHakkinda": "Baklagiller ailesine ait bir besin olan yeşil mercimek değerli bir protein kaynağıdır. 100 gramında 116 kkal enerji, 20 gram karbonhidrat, 9 gram protein ve 0,4 gram yağ bulunur. Aynı zamanda bu miktarında 8 gram diyet lifi bulunan yeşil mercimek, sindirim sisteminin düzenlenmesinde oldukça etkilidir.",
+    "urunAd": "Yeşil Mercimek",
+    "urunKategori": "Baklagiller",
+    "urunID": 9,
+    "urunKalori": "116 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/2d3ltmn.jpg",
+    "urunHakkinda": "Kalsiyum mineralinin önemli kaynaklarından olan yoğurt, günlük olarak tüketilmesi gereken besinlerden bir tanesidir. 1 kase (200 gram) yoğurt; 114 kilokalori enerji, 9 gram karbonhidrat, 6 gram protein ve 6 gram yağ içerir. ",
+    "urunAd": "Yoğurt",
+    "urunKategori": "Süt ve Süt Ürünleri",
+    "urunID": 10,
+    "urunKalori": "58,8 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/gf7jwi6.jpg",
+    "urunHakkinda": "Protein ve yağ içeriği yüksek sağlıklı kuru yemişlerden bir tanesi olan bademin kavrulmamış ve tuzsuz halde 100 gramında 570 kkal enerji, 3,7 gram karbonhidrat, 18,7 gram protein ve 54,1 gram yağ bulunur.",
+    "urunAd": "Badem",
+    "urunKategori": "Kuruyemiş",
+    "urunID": 11,
+    "urunKalori": "570 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/dcvs2zv.jpg",
+    "urunHakkinda": "Buğdaydan yapılan lifli bir tahıl ürünü olan bulgur, sağlıklı beslenmenin olmazsa olmazlarından bir tanesidir. Pişmiş haliyle 100 gram bulgurda 83 kkal enerji, 18,6 gram karbonhidrat, 3,1 gram protein ve 0,2 gram yağ bulunur.",
+    "urunAd": "Bulgur",
+    "urunKategori": "Tahıl",
+    "urunID": 12,
+    "urunKalori": "83 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/btmq6ny.jpg",
+    "urunHakkinda": "Değerli besin ögeleri barındıran sağlıklı kuru yemişlerden bir tanesi olan fındık, önemli bir bitkisel protein kaynağıdır. 100 gram fındık vücuda 628 kkal enerji sağlarken 17 gram karbonhidrat, 15 gram protein ve 61 gram yağ içerir.",
+    "urunAd": "Fındık",
+    "urunKategori": "Kuruyemiş",
+    "urunID": 13,
+    "urunKalori": "628 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/5ahq298.png",
+    "urunHakkinda": "Yaygın olarak tüketilen karbonhidrat kaynaklarından bir tanesi olan makarnanın 100 gram pişmiş miktarı vücuda 131 kkal enerji sağlar. ",
+    "urunAd": "Makarna",
+    "urunKategori": "Tahıl",
+    "urunID": 14,
+    "urunKalori": "131 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/rvjfco4.jpg",
+    "urunHakkinda": "Oldukça sağlıklı bir besin türü olan mantar, pek çok çeşide sahiptir. Bunlardan ülkemizde en yaygın olarak tüketileni beyaz şapkalı kültür mantarıdır ve çiğ haliyle 100 gramında 22 kkal enerji, 3,3 gram karbonhidrat, 3,1 gram protein ve 0,3 gram yağ ihtiva eder. ",
+    "urunAd": "Mantar",
+    "urunKategori": "Sebze",
+    "urunID": 15,
+    "urunKalori": "22 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/e7vby79.jpg",
+    "urunHakkinda": "Yaygın olarak tüketilen meyvelerden bir tanesi olan elma, diğer birçok meyve türü gibi C vitamininin önemli bir kaynağıdır. Bir adet küçük boy elma yaklaşık olarak 90 gramdır ve bu boyutta bir elmada 47 kkal enerji, 12,4 gram karbonhidrat, 0,2 gram protein ve 0,1 gram yağ bulunur.",
+    "urunAd": "Elma",
+    "urunKategori": "Meyve",
+    "urunID": 16,
+    "urunKalori": "47 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/9j4u1fs.jpg",
+    "urunHakkinda": "Koyu yeşil yapraklı sebzeler grubunda yer alan bir besin olan ıspanağın çiğ olarak 100 gramı; 17 kkal gibi düşük bir enerji içeriğine sahiptir. Sebze yemeği olarak tüketildiğinde ise 100 gramlık bir porsiyonu 76 kkal enerji, 5,7 gram karbonhidrat, 2,5 gram protein ve 4,6 gram yağ içerir.",
+    "urunAd": "Ispanak",
+    "urunKategori": "Sebze",
+    "urunID": 17,
+    "urunKalori": "17 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/nkltaza.jpg",
+    "urunHakkinda": "Karnabahar, lahana gibi besinler gibi Brassica grubu sebzeler arasında yer alan brokoli, sağlık açısından birçok faydası olan değerli bir bitkidir. 100 gram brokoli 33 kkal enerji, 7 gram karbonhidrat, 2,8 gram protein ve 0,4 gram yağ içerir. ",
+    "urunAd": "Brokoli",
+    "urunKategori": "Sebze",
+    "urunID": 18,
+    "urunKalori": "33 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/b5pvrc5.jpg",
+    "urunHakkinda": "lkemizde ve dünyada en yaygın tüketilen sebzelerden bir tanesi olan domates, 100 gramında 17 kkal enerji bulunan sağlıklı bir besindir. 100 gram domateste 3,9 gram karbonhidrat, 0,9 gram protein ve 0,2 gram yağ bulunur, yüksek oranda su ve diyet lifi içerir.",
+    "urunAd": "Domates",
+    "urunKategori": "Sebze",
+    "urunID": 19,
+    "urunKalori": "17 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/hn1uskf.jpg",
+    "urunHakkinda": "Bilinen en sağlıklı besinlerden biri olan balık, içerisinde demir, iyot, fosfor ve kalsiyum gibi maddeler barındırmasının yanı sıra, B12, A ve D vitaminleri de bulundurur. Ayrıca Omega 3 ve Omega 6 gibi vücut sağlığı için büyük öneme sahip iki yağ asidini içeren balık, günlük hayatta birçok kişinin kullandığı yiyecek çeşididir.",
+    "urunAd": "Balık",
+    "urunKategori": "Et",
+    "urunID": 20,
+    "urunKalori": "205 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/b4245wr.jpg",
+    "urunHakkinda": "Beyaz pirinç, yüksek glisemik indeks değerine sahip bir besindir. Yani kan şekerini aniden yükseltip aniden düşürerek çabuk acıkmanıza neden olur. Ayrıca pilav yapımı esnasında ilave edilen yağ, kalori değerini de yükseltmektedir. ",
+    "urunAd": "Prinç",
+    "urunKategori": "Tahıl",
+    "urunID": 21,
+    "urunKalori": "130 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/cko30lb.jpg",
+    "urunHakkinda": "100 gram baklavanın kalorisi 433,95 'dır. Günlük 2.000 kalorilik bir diyet yaptığınızı varsayarsak, düşük kalorili yeşilliklerle birlikte baklavayı tükettiğinizde bir öğününüzün yerine geçebilecek kaloriye sahiptir",
+    "urunAd": "Baklava",
+    "urunKategori": "Tatlı",
+    "urunID": 22,
+    "urunKalori": "433,95 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/rphc4h7.jpg",
+    "urunHakkinda": "Bu besinin 100 gramında 32 kcal kalori, ayrıca besinin 1 Çay Bardağı (Normal) yani 150 gramlık miktarında Çilek 48 kalori bulunmaktadır.",
+    "urunAd": "Çilek",
+    "urunKategori": "Meyve",
+    "urunID": 23,
+    "urunKalori": "32,5 Kcal"
+  },
+  {
+    "urunFoto": "https://i.hizliresim.com/5p2gh7m.jpg",
+    "urunHakkinda": "Günde 100 gramlık bir bitter çikolata tüketimi, kadınların günlük kalori limitinin %100'ünü, erkeklerde ise 2/3'sini karşılar. Bu nedenle günde 25 gramdan (2,5 kare gibi) fazla çikolata tüketmemek gerekir.",
+    "urunAd": "Bitter Çikolata",
+    "urunKategori": "Tatlı",
+    "urunID": 24,
+    "urunKalori": "545,6 Kcal"
+  }
+]
